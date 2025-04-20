@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <form>
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" maxlength="25" required placeholder="Enter your name">
+    <br><br>
+    <label for="email">Email</label>
+    <input type="email" id="name" name="email" value="test@example.com" maxlength="20" required  autofocus>
+    <br><br>
+    <label for="password">Password</label>
+    <input type="password" id="password" name="password" minimumlength="6" required>
+    <br><br
+    <label for="category">Category</label>
+    <select id="category" name="category"required>
+      <option value="student">Student</option>
+      <option value="employee">Employee</option>
+      <option value="freelancer" selected>Freelancer</option>
+    </select><br><br>
+    <label for="date">Event date</label>
+    <input type="date" id="date" name="date" required><br><br>
+  <label for="ticket">Tickets</label><br>
+  <input type="radio" name="ticket" id="ticket1" value="1"required>
+  <label for="ticket1">Ticket1</label><br>
+  
+  <input type="radio" name="ticket" id="ticket2" value="2"checked>
+  <label for="ticket2">Ticket2</label><br>
+
+  <input type="radio" name="ticket" id="ticket3" value="3"required>
+  <label for="ticket3">Ticket3</label><br>
+
+  <label for="online">Online payment</label>
+  <input type="checkbox" id="online" name="online" ><br><br>
+
+  <label for="notes">Notes</label><br>
+  <textarea id="notes" name="notes" rows="6" cols="50" placeholder="Enter your notes"></textarea><br><br>
+
+  <button>Submit</button>
+
+</form>
+
+
+</body>
+</html>
