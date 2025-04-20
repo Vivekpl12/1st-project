@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="News article about financial regulations in India for 2025.">
+  <meta name="keywords" content="financial regulations, India, 2025, news, UPI rules, income tax slabs, GST changes">
+  <title>News</title>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Contact</a></li>
+      <li><a href="#">Entertaintment</a></li>
+    </ul>
+  </nav>
+  <h1>Whats Changing in 2025</h1>
+  <figure>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTc1aTAwOHRic2lteHQybjlsN2s4dmlvcmp6NHR6a3hyaTAycWdkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n2IPMYMthV0m4/giphy.gif" alt="Whats Changing in 2025" width="100" height="100">
+    <figcaption>Significant changes to financial regulations in India</figcaption>
+  </figure>
+  <p>In 2025, there are significant changes coming to <strong>financial regulations in India, particularly starting April 1st</strong>. These include revised income tax slabs, changes to UPI rules, and the launch of the Unified Pension Scheme. Additionally, there are changes to nomination procedures for <em>mutual funds and demat accounts, LPG cylinder prices, and GST regulations</em>. </p>
+  <ol>
+  <li>Revised tax slabs under the new income tax regime.</li> 
+  <li>Changes to UPI rules, likely including increased transaction limits.</li> 
+  <li>Changes to GST rules, potentially including mandatory Multi-Factor Authentication (MFA) for compliance.</li>
+  </ol>
+  <h2>Financial Regulations</h2>
+  <table border="1" cellpadding="10" cellspacing="0">
+    <thead>
+      <tr>
+          <th>Date</th>
+          <th>Regulation</th>
+          <th>Details</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>April 17, 2025</td>
+          <td>SEBI's Proposal on REITs and InvITs</td>
+          <td>SEBI proposed increasing mutual funds' exposure to REITs and InvITs from 10% to 20% to enhance market liquidity and investor participation. Public feedback is being solicited on reclassifying these instruments as equity for index inclusion.</td>
+      </tr>
+      <tr>
+          <td>April 16, 2025</td>
+          <td>Review of ESG Disclosures</td>
+          <td>SEBI announced a review of ESG disclosure requirements for listed companies, focusing on supply chain reporting and aiming to simplify compliance, especially for smaller firms.</td>
+      </tr>
+      <tr>
+          <td>April 15, 2025</td>
+          <td>RBI's Securitisation Policy</td>
+          <td>The RBI introduced a policy allowing the securitisation of stressed assets, including non-performing loans, to deepen the junk debt market and attract foreign investments.</td>
+      </tr>
+      <tr>
+          <td>February 1, 2025</td>
+          <td>Union Budget 2025-26</td>
+          <td>The Finance Minister announced several reforms, including raising FDI limits in insurance to 100%, simplifying KYC processes, and rationalizing ULIP taxation to boost financial inclusion and market participation.</td>
+      </tr>
+      <tr>
+          <td>October 10, 2023</td>
+          <td>Extension of PCA to Government-Owned NBFCs</td>
+          <td>The RBI extended the Prompt Corrective Action (PCA) framework to government-owned NBFCs, effective from October 2024, to ensure timely supervisory intervention and maintain financial health.</td>
+      </tr>
+  </tbody>
+  </table>
+  <p>
+    <a href="https://timesofindia.indiatimes.com/business/financial-literacy/taxation/6-financial-changes-from-april-1-2025-from-new-income-tax-slabs-to-tds-and-ups-changes-heres-what-you-should-know/articleshow/119896156.cms#:~:text=Global%20Recession-,6%20financial%20changes%20from%20April%201%2C%202025:%20From%20new%20income,here%27s%20what%20you%20should%20know&text=Starting%20April%201%2C%202025%2C%20changes,citizens%2C%20organisations%20and%20market%20participants.&text=The%20revisions%20include%20adjustments%20to,2025%2C%20as%20listed%20by%20ET." target="_blank">6 Financial changes from April 1,2025</a>
+  </p>
+  <h2>Watch the latest Financial changes</h2>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/81LFwfOulLU?si=2_x40vMss-rTR5ot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
